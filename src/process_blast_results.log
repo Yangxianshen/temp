@@ -1,0 +1,187 @@
+2019-10-02 17:45:54 INFO     Blast records read
+2019-10-02 17:45:54 DEBUG    Filter items:predicted: envelope glycoprotein-like [mus musculus]
+2019-10-02 17:45:54 DEBUG    Filter items:predicted: envelope glycoprotein-like [mus musculus]
+2019-10-02 17:45:54 INFO     Blast records remaining:11
+2019-10-02 17:45:54 INFO     squence=0is
+2019-10-02 17:45:54 INFO     gi|67763824|ref|NP_033236.2| helicase-like transcription factor isoform 1 [Mus musculus]
+           Length = 1003
+
+2019-10-02 17:45:54 INFO     squence=1is
+2019-10-02 17:45:54 INFO     gi|147904569|ref|NP_082180.2| carboxypeptidase N subunit 2 precursor [Mus musculus]
+           Length = 547
+
+2019-10-02 17:45:54 INFO     squence=2is
+2019-10-02 17:45:54 INFO     gi|67763822|ref|NP_659208.2| helicase-like transcription factor isoform 2 [Mus musculus]
+           Length = 841
+
+2019-10-02 17:45:54 INFO     squence=3is
+2019-10-02 17:45:54 INFO     gi|345199290|ref|NP_001230832.1| uncharacterized protein LOC626802 [Mus musculus]
+           Length = 358
+
+2019-10-02 17:45:54 INFO     squence=4is
+2019-10-02 17:45:54 INFO     gi|33239256|ref|NP_666833.1| olfactory receptor 360 [Mus musculus]
+           Length = 317
+
+2019-10-02 17:45:54 INFO     squence=5is
+2019-10-02 17:45:54 INFO     gi|254281307|ref|NP_766624.3| probable G-protein coupled receptor 97 precursor [Mus musculus]
+           Length = 542
+
+2019-10-02 17:45:54 INFO     squence=6is
+2019-10-02 17:45:54 INFO     gi|254939520|ref|NP_666096.3| prolyl endopeptidase-like isoform b [Mus musculus] >gi|254939522|ref|NP_001157095.1| prolyl endopeptidase-like isoform b [Mus musculus] >gi|254939524|ref|NP_001157096.1| prolyl endopeptidase-like isoform b [Mus musculus]
+           Length = 638
+
+2019-10-02 17:45:54 INFO     squence=7is
+2019-10-02 17:45:54 INFO     gi|148839318|ref|NP_083163.3| structural maintenance of chromosomes flexible hinge domain-containing protein 1 [Mus musculus]
+           Length = 2007
+
+2019-10-02 17:45:54 INFO     squence=8is
+2019-10-02 17:45:54 INFO     gi|62000680|ref|NP_001013845.1| keratin-associated protein 4-3 [Mus musculus]
+           Length = 202
+
+2019-10-02 17:45:54 INFO     squence=9is
+2019-10-02 17:45:54 INFO     gi|77812697|ref|NP_035782.3| titin isoform N2-A [Mus musculus]
+           Length = 33467
+
+2019-10-02 17:45:54 INFO     squence=10is
+2019-10-02 17:45:54 INFO     gi|254939518|ref|NP_001157094.1| prolyl endopeptidase-like isoform a [Mus musculus]
+           Length = 725
+
+2019-10-02 17:45:54 INFO     Blast records read
+2019-10-02 17:45:54 INFO     Blast records remaining:25
+2019-10-02 17:45:54 INFO     squence=0is
+2019-10-02 17:45:54 INFO     gi|356995938|ref|NP_001239371.1| pleckstrin homology-like domain family B member 2 isoform 1 [Mus musculus]
+           Length = 1302
+
+2019-10-02 17:45:54 INFO     squence=1is
+2019-10-02 17:45:54 INFO     gi|188528897|ref|NP_700461.2| pleckstrin homology-like domain family B member 2 isoform 2 [Mus musculus]
+           Length = 1249
+
+2019-10-02 17:45:54 INFO     squence=2is
+2019-10-02 17:45:54 INFO     gi|21313088|ref|NP_080301.1| zinc finger CCHC-type and RNA-binding motif-containing protein 1 [Mus musculus]
+           Length = 217
+
+2019-10-02 17:45:54 INFO     squence=3is
+2019-10-02 17:45:54 INFO     gi|41054992|ref|NP_955762.1| zinc finger CCHC domain-containing protein 5 [Mus musculus]
+           Length = 553
+
+2019-10-02 17:45:54 INFO     squence=4is
+2019-10-02 17:45:54 INFO     gi|270132817|ref|NP_075965.2| tubulointerstitial nephritis antigen-like precursor [Mus musculus] >gi|270132824|ref|NP_001161805.1| tubulointerstitial nephritis antigen-like precursor [Mus musculus]
+           Length = 466
+
+2019-10-02 17:45:54 INFO     squence=5is
+2019-10-02 17:45:54 INFO     gi|145587092|ref|NP_034936.1| afadin [Mus musculus]
+           Length = 1820
+
+2019-10-02 17:45:54 INFO     squence=6is
+2019-10-02 17:45:54 INFO     gi|22122585|ref|NP_666195.1| serine/arginine-rich splicing factor 7 isoform 1 [Mus musculus]
+           Length = 238
+
+2019-10-02 17:45:54 INFO     squence=7is
+2019-10-02 17:45:54 INFO     gi|306774101|ref|NP_001182415.1| serine/arginine-rich splicing factor 7 isoform 3 [Mus musculus]
+           Length = 227
+
+2019-10-02 17:45:54 INFO     squence=8is
+2019-10-02 17:45:54 INFO     gi|306774098|ref|NP_001182414.1| serine/arginine-rich splicing factor 7 isoform 2 [Mus musculus]
+           Length = 235
+
+2019-10-02 17:45:54 INFO     squence=9is
+2019-10-02 17:45:54 INFO     gi|306774103|ref|NP_001182416.1| serine/arginine-rich splicing factor 7 isoform 4 [Mus musculus]
+           Length = 223
+
+2019-10-02 17:45:54 INFO     squence=10is
+2019-10-02 17:45:54 INFO     gi|124486759|ref|NP_001074791.1| myosin-Vc [Mus musculus]
+           Length = 1742
+
+2019-10-02 17:45:54 INFO     squence=11is
+2019-10-02 17:45:54 INFO     gi|62990166|ref|NP_032043.3| structural maintenance of chromosomes protein 2 [Mus musculus]
+           Length = 1191
+
+2019-10-02 17:45:54 INFO     squence=12is
+2019-10-02 17:45:54 INFO     gi|242397421|ref|NP_808523.2| mediator of RNA polymerase II transcription subunit 12-like protein [Mus musculus]
+           Length = 2185
+
+2019-10-02 17:45:54 INFO     squence=13is
+2019-10-02 17:45:54 INFO     gi|29244100|ref|NP_808341.1| centrosomal protein of 104 kDa [Mus musculus]
+           Length = 926
+
+2019-10-02 17:45:54 INFO     squence=14is
+2019-10-02 17:45:54 INFO     gi|226342873|ref|NP_065254.3| bromodomain-containing protein 4 isoform 1 [Mus musculus]
+           Length = 1400
+
+2019-10-02 17:45:54 INFO     squence=15is
+2019-10-02 17:45:54 INFO     gi|98985814|ref|NP_570947.2| retrotransposon-derived protein PEG10 isoform 1 [Mus musculus]
+           Length = 1006
+
+2019-10-02 17:45:54 INFO     squence=16is
+2019-10-02 17:45:54 INFO     gi|124486959|ref|NP_001074719.1| myosin-13 [Mus musculus]
+           Length = 1938
+
+2019-10-02 17:45:54 INFO     squence=17is
+2019-10-02 17:45:54 INFO     gi|269308253|ref|NP_083744.2| zinc finger protein 821 [Mus musculus] >gi|269308255|ref|NP_001161418.1| zinc finger protein 821 [Mus musculus]
+           Length = 413
+
+2019-10-02 17:45:54 INFO     squence=18is
+2019-10-02 17:45:54 INFO     gi|30466247|ref|NP_848671.1| cleavage and polyadenylation specificity factor subunit 4 [Mus musculus]
+           Length = 211
+
+2019-10-02 17:45:54 INFO     squence=19is
+2019-10-02 17:45:54 INFO     gi|124487309|ref|NP_001074549.1| PHD finger protein 3 [Mus musculus]
+           Length = 2025
+
+2019-10-02 17:45:54 INFO     squence=20is
+2019-10-02 17:45:54 INFO     gi|160948569|ref|NP_599018.3| regulator of G-protein signaling 3 isoform 2 [Mus musculus]
+           Length = 966
+
+2019-10-02 17:45:54 INFO     squence=21is
+2019-10-02 17:45:54 INFO     gi|125628662|ref|NP_067496.2| mediator of RNA polymerase II transcription subunit 12 [Mus musculus]
+           Length = 2190
+
+2019-10-02 17:45:54 INFO     squence=22is
+2019-10-02 17:45:54 INFO     gi|146219837|ref|NP_034253.3| eukaryotic translation initiation factor 3 subunit A [Mus musculus]
+           Length = 1344
+
+2019-10-02 17:45:54 INFO     squence=23is
+2019-10-02 17:45:54 INFO     gi|329663747|ref|NP_001192320.1| autophagy-related protein 16-1 isoform 1 [Mus musculus]
+           Length = 623
+
+2019-10-02 17:45:54 INFO     squence=24is
+2019-10-02 17:45:54 INFO     gi|27777650|ref|NP_084122.2| autophagy-related protein 16-1 isoform 2 [Mus musculus]
+           Length = 607
+
+2019-10-02 17:45:54 INFO     Blast records read
+2019-10-02 17:45:54 DEBUG    Filter items:predicted: probable pol polyprotein-like [mus musculus]
+2019-10-02 17:45:54 DEBUG    Filter items:predicted: putative pol polyprotein-like [mus musculus]
+2019-10-02 17:45:54 DEBUG    Filter items:predicted: hypothetical protein loc330108 [mus musculus] >gi|309272145|ref|xp_003085495.1| predicted: hypothetical protein loc330108 [mus musculus]
+2019-10-02 17:45:54 INFO     Blast records remaining:8
+2019-10-02 17:45:54 INFO     squence=0is
+2019-10-02 17:45:54 INFO     gi|46309585|ref|NP_908998.1| retrotransposon-like protein 1 [Mus musculus]
+           Length = 1744
+
+2019-10-02 17:45:54 INFO     squence=1is
+2019-10-02 17:45:54 INFO     gi|256220954|ref|NP_001035161.1| protein NYNRIN [Mus musculus]
+           Length = 1840
+
+2019-10-02 17:45:54 INFO     squence=2is
+2019-10-02 17:45:54 INFO     gi|226246542|ref|NP_035405.2| ribonuclease H1 [Mus musculus]
+           Length = 285
+
+2019-10-02 17:45:54 INFO     squence=3is
+2019-10-02 17:45:54 INFO     gi|144922604|ref|NP_080526.2| gypsy retrotransposon integrase-like protein 1 [Mus musculus]
+           Length = 518
+
+2019-10-02 17:45:54 INFO     squence=4is
+2019-10-02 17:45:54 INFO     gi|146262012|ref|NP_082218.1| protein DDI1 homolog 1 [Mus musculus]
+           Length = 408
+
+2019-10-02 17:45:54 INFO     squence=5is
+2019-10-02 17:45:54 INFO     gi|268836255|ref|NP_573461.2| glycogen phosphorylase, liver form [Mus musculus]
+           Length = 850
+
+2019-10-02 17:45:54 INFO     squence=6is
+2019-10-02 17:45:54 INFO     gi|130502130|ref|NP_080690.2| retroviral-like aspartic protease 1 precursor [Mus musculus]
+           Length = 339
+
+2019-10-02 17:45:54 INFO     squence=7is
+2019-10-02 17:45:54 INFO     gi|63003917|ref|NP_001017966.1| protein DDI1 homolog 2 [Mus musculus]
+           Length = 399
+
